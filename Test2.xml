@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><ACGServerData>
+	
+	<AIR>AIR
+		
+		<Name>AIR</Name>
+		
+		<Season>1</Season>
+			
+		<Episode>12</Episode>
+			
+		<Watched>No</Watched>
+			
+		<Subtitle>No</Subtitle>	
+			
+		<Year>2005</Year>	
+			
+		<Resolution>1080P</Resolution>
+			
+		<VideoTrack>H264(High 10)</VideoTrack>
+			
+		<AudioTrack>AC3</AudioTrack>
+	</AIR>
+	<Clannad>Clannad
+		<Season>1
+			<Episode>12</Episode>
+			<Watched>Y</Watched>
+			<Subtitle>N</Subtitle>
+			<Year>2005</Year>
+			<Resolution>1080P</Resolution>
+			<VideoFileType>d</VideoFileType>
+			<BDRIP>f</BDRIP>
+		</Season>
+		<Season>2
+			<Episode>23</Episode>
+			<Watched>Y</Watched>
+			<Subtitle>N</Subtitle>
+			<Year>23</Year>
+			<Resolution>720P</Resolution>
+			<VideoFileType>mkv</VideoFileType>
+			<BDRIP>n</BDRIP>
+		</Season>
+	</Clannad>
+	<ToLove>ToLove
+		<Season>1
+			<Episode>23</Episode>
+			<Watched>Y</Watched>
+			<Subtitle>Y</Subtitle>
+			<Year>2010</Year>
+			<Resolution>720P</Resolution>
+			<VideoFileType>mkv</VideoFileType>
+			<BDRIP>N</BDRIP>
+		</Season>
+	</ToLove>
+	<AB>AB
+		<Season>1
+			<Episode>112</Episode>
+			<Watched>Y</Watched>
+			<Subtitle>N</Subtitle>
+			<Year>20</Year>
+			<Resolution>1080P</Resolution>
+			<VideoFile>mkv</VideoFile>
+			<BDRIP>Y</BDRIP>
+		</Season>
+	</AB>
+	<SAO>SAO
+		<Season>1
+			<Episode>25</Episode>
+			<Watched>Y</Watched>
+			<Subtitle>Y</Subtitle>
+			<Year>2012</Year>
+			<Resolution>1080P</Resolution>
+			<VideoFile>Mkv</VideoFile>
+			<BDRIP>Y</BDRIP>
+		</Season>
+	</SAO>
+</ACGServerData>

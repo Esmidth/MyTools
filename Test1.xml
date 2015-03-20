@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ACGServerData>
+	<Anime>AIR
+		<Name>AIR</Name>
+		<Season>1</Season>
+			<Episode>12</Episode>
+			<Watched>No</Watched>
+			<Subtitle>No</Subtitle>	
+			<Year>2005</Year>	
+			<Resolution>1080P</Resolution>
+			<VideoTrack>H264(High 10)</VideoTrack>
+			<AudioTrack>AC3</AudioTrack>
+	</Anime>
+</ACGServerData>
+		
