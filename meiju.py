@@ -1,11 +1,11 @@
 __author__ = 'Esmidth'
 
-a = ""
-i = 0
-while i < 100:
-    a += str(i + 1)
-    i += 1
+import pickle
 
-temp = raw_input("Input the number\n")
-temp_pos = a.find(temp)
-print(temp_pos + 1)
+with open('mydata.pickle', 'wb') as mysavedata:
+    pickle.dump([1, 2, 'three'], mysavedata)
+
+with open('mydata.pickle', 'rb') as myrestoredata:
+    a_list = pickle.load(mysavedata)
+
+print(a_list)

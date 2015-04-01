@@ -19,22 +19,23 @@ MIT license
 
 import sys
 import os
-from StringIO import StringIO
 import gzip
 import urllib
-import urllib2
 import math
 import json
-import commands
 import subprocess
 import hashlib
 import getopt
 import logging
 import traceback
 import threading
+from xml.dom.minidom import parseString
+
+from StringIO import StringIO
+import urllib2
+import commands
 import Queue
 
-from xml.dom.minidom import parseString
 
 try:
     from danmaku2ass2 import *
@@ -79,14 +80,14 @@ def logging_level_reader(LOG_LEVEL):
     }.get(LOG_LEVEL)
 
 
-#----------------------------------------------------------------------
+# ----------------------------------------------------------------------
 def calc_sign(string):
     """str/any->str
     return MD5."""
     return str(hashlib.md5(str(string).encode('utf-8')).hexdigest())
 
 
-#----------------------------------------------------------------------
+# ----------------------------------------------------------------------
 def read_cookie(cookiepath):
     """str->list
     Original target: set the cookie
@@ -103,7 +104,7 @@ def read_cookie(cookiepath):
         return ['']
 
 
-#----------------------------------------------------------------------
+# ----------------------------------------------------------------------
 def clean_name(name):
     """str->str
     delete all the dramas in the filename."""
@@ -551,7 +552,8 @@ def get_resolution_ffprobe(filename):
     # print filename
     out, err = p.communicate()
     if err:
-        print err
+        print
+        err
         return None
     try:
         for line in out.split():
