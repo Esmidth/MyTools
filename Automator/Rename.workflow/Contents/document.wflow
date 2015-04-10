@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>409</string>
+	<string>409.1</string>
 	<key>AMApplicationVersion</key>
 	<string>2.5</string>
 	<key>AMDocumentVersion</key>
@@ -51,7 +51,67 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>fileNames</key>
-					<array/>
+					<array>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.001-002.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.003.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.004.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.005.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.006.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.007.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.008.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.009.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.010.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.011.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.012.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.013.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.014.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.015.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.016.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.017.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.018.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.019.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.020.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.021.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.022.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.023.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.024.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.025.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.026.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.027.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.028.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.029.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.030.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.031.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.032.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.033.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.034.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.035.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.036.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.037.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.038.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.039.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.040.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.041.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.042.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.043.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.044.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.045.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.046.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.047.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.048.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.049.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.050.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.051.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.052.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.053.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.054.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.055.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.056.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.057.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.058.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.059.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.060.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+					</array>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SpecifiedFiles</string>
@@ -145,7 +205,9 @@
 					<key>defaultName</key>
 					<dict>
 						<key>tokenizedValue</key>
-						<string>PSYCHO-PASS</string>
+						<array>
+							<string>Gintama S01E</string>
+						</array>
 					</dict>
 					<key>ignoreCase</key>
 					<dict/>
@@ -209,7 +271,7 @@
 					<key>dateToUse</key>
 					<integer>0</integer>
 					<key>defaultName</key>
-					<string>PSYCHO-PASS</string>
+					<string>Gintama S01E</string>
 					<key>ignoreCase</key>
 					<true/>
 					<key>includeExtensions</key>
@@ -225,7 +287,7 @@
 					<key>numberLocation</key>
 					<integer>0</integer>
 					<key>numberSeparator</key>
-					<integer>2</integer>
+					<integer>4</integer>
 					<key>renameItems</key>
 					<integer>1</integer>
 					<key>renameType</key>
@@ -590,7 +652,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>B0E978CF-64EA-4E6C-BE28-D0F27970C9B7</key>
+		<key>881EB690-9EF9-4FB4-99C1-B58FABDDF427</key>
 		<dict>
 			<key>from</key>
 			<string>C1C50FB2-B9F1-49B9-959E-F59019AEB12A - C1C50FB2-B9F1-49B9-959E-F59019AEB12A</string>
