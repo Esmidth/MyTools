@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>409.1</string>
+	<string>409.2</string>
 	<key>AMApplicationVersion</key>
 	<string>2.5</string>
 	<key>AMDocumentVersion</key>
@@ -52,66 +52,35 @@
 				<dict>
 					<key>fileNames</key>
 					<array>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.001-002.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.003.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.004.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.005.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.006.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.007.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.008.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.009.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.010.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.011.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.012.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.013.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.014.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.015.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.016.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.017.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.018.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.019.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.020.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.021.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.022.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.023.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.024.[DVDRip.704x528.x264.AAC].ACZ.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.025.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.026.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.027.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.028.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.029.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.030.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.031.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.032.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.033.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.034.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.035.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.036.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.037.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.038.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.039.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.040.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.041.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.042.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.043.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.044.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.045.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.046.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.047.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.048.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.049.[DVDRip.704x528.x264.AAC].DMHY_STAR.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.050.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.051.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.052.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.053.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.054.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.055.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.056.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.057.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.058.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.059.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
-						<string>~/Movies/0[Gintama]/[银魂.第一季].[RG.Genshiken].Gintama.-.060.[DVDRip.704x528.x264.AAC].LAC.mkv</string>
+						<string>/Volumes/NIKON D90/Silicon.Valley.S02E01.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E02.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E03.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E04.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E05.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E06.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E07.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E08.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E09.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E10.End.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
 					</array>
+				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>fileNames</key>
+					<array>
+						<string>/Volumes/NIKON D90/Silicon.Valley.S02E01.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E02.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E03.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E04.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E05.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E06.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E07.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E08.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E09.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+						<string>/Volumes/NIKON D90/ç¡è°·.Silicon.Valley.S02E10.End.ä¸­è±å­å¹.HDTVrip.1024X576.mp4</string>
+					</array>
+					<key>temporary items path</key>
+					<string>/var/folders/fr/8t2tswv11992z90fzj8b_klh0000gn/T/B3DC1DC6-FBCF-4DD5-81D6-E9E70D290899/1/com.apple.Automator.SpecifiedFiles</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SpecifiedFiles</string>
@@ -206,7 +175,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>Gintama S01E</string>
+							<string>Silicon.Valley.S02E</string>
 						</array>
 					</dict>
 					<key>ignoreCase</key>
@@ -271,7 +240,7 @@
 					<key>dateToUse</key>
 					<integer>0</integer>
 					<key>defaultName</key>
-					<string>Gintama S01E</string>
+					<string>Silicon.Valley.S02E</string>
 					<key>ignoreCase</key>
 					<true/>
 					<key>includeExtensions</key>
@@ -652,7 +621,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>881EB690-9EF9-4FB4-99C1-B58FABDDF427</key>
+		<key>97FA2D67-0C17-478C-8D3F-C66D4AB2F5B4</key>
 		<dict>
 			<key>from</key>
 			<string>C1C50FB2-B9F1-49B9-959E-F59019AEB12A - C1C50FB2-B9F1-49B9-959E-F59019AEB12A</string>
