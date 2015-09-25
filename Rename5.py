@@ -5,21 +5,26 @@ import os
 import shutil
 import sys
 
-print sys.argv
+print
+sys.argv
 List1 = []
 
 
 def printpart():
     global List1
     # rename1()
-    print "---------------------------------PREVIEW----------------------------------------"
+    print
+    "---------------------------------PREVIEW----------------------------------------"
     # print "Original File Names".ljust(49),"New File Names"
     m = 0
     while m < len(List):
-        print m + 1, "\t%s" % (List[m]).ljust(90), "--->>--" + "\t\t%s.%s" % (List1[m], Type)
+        print
+        m + 1, "\t%s" % (List[m]).ljust(90), "--->>--" + "\t\t%s.%s" % (List1[m], Type)
         m += 1
-    print "---------------------------------END--------------------------------------------"
-    print "    printpart()\n    remove(From,To)\n    rename(Number)\n    do()"
+    print
+    "---------------------------------END--------------------------------------------"
+    print
+    "    printpart()\n    remove(From,To)\n    rename(Number)\n    do()"
 
 
 def remove(fromm, to):
@@ -39,7 +44,7 @@ def rename1():
     else:
         List1 = map(lambda x: Name % (Season, "0%s" % x), range(1, 10))
         List1.extend(map(lambda x: Name % (Season, x), range(10, len(List) + 1)))
-    # return List1
+        # return List1
 
 
 def do():
@@ -48,12 +53,14 @@ def do():
         shutil.move("%s%s" % (Path, List[i]), "%s%s.%s" % (Path, List1[i], Type))
         i += 1
     printpart()
-    print "Done"
+    print
+    "Done"
 
 
 def rename(num):
     global List1
-    print "Input the form of the file", " 'No'", num
+    print
+    "Input the form of the file", " 'No'", num
     namem = raw_input()
     List1[num - 1] = namem
     printpart()
